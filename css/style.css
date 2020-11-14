@@ -1,0 +1,259 @@
+
+
+
+header{
+	width: 1335px;
+	display: flex;
+	/* justify-content: flex-end; */
+	background: black;
+	align-items: center;
+}
+
+.logo{
+
+width: 194px;
+
+/* background: blue; */
+
+/* align-items: center; */
+}
+.menu{
+
+justify-content: flex-end;
+
+width: 1000px;
+
+display: flex;
+
+/* background: red; */
+}
+.menu ul li{
+
+list-style: none;
+
+display: inline-block;
+
+margin-left: 26px;
+
+margin-right: 38px;
+}
+.menu ul li a{
+
+text-decoration: none;
+
+color: #8234d8;
+
+font-size: 19px;
+
+transition: 1s;
+}
+.menu ul li a:hover{
+	color: blue;
+	transition: 1s;
+}
+.menu span{
+	
+background: blue;
+	
+color: #d3d2dc;
+	
+padding: 10px;
+}
+section{background-image: url(https://cdn.pixabay.com/photo/2016/11/29/06/16/kindle-1867751_960_720.jpg);
+	height: 80vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.text{
+	
+text-align: center;
+	
+padding-top: 317px;
+}
+.text h4{
+
+color: #6451ff;
+}
+.text h1{
+
+color: #168290;
+}
+.text p{
+
+}
+.text span{
+
+background: #0b0b0c6e;
+
+color: white;
+}
+.back{
+
+text-align: center;
+
+/* background: blue; */
+
+padding-bottom: 60px;
+
+padding-top: 47px;
+}
+.back img{
+	
+margin-left: 20px;
+	
+margin-right: 20px;
+	
+padding: 20px;
+}
+.back h3{
+	
+}
+.pial {
+
+text-align: center;
+
+background: #f5deb340;
+}
+.pial h2{
+
+padding: 16px;
+}
+.pial p{
+
+}
+.box{
+
+width: 100%;
+
+margin-left: auto;
+
+margin-right: auto;
+
+overflow: hidden;
+
+/* float: left; */
+}
+.box-1 img{
+	
+width: 50%;
+	
+display: flex;
+	
+padding: 30px 40px;
+	
+float: left;
+	
+box-sizing: border-box;
+max-width: 100%;
+}
+.box-2{
+	
+width: 50%;
+	
+float: left;
+	
+padding: 30px 40px;
+	
+/* display: flex; */
+	
+box-sizing: border-box;
+	
+padding-top: 102px;
+}
+.box-3 {
+		
+width: 50%;
+	
+display: flex;
+	
+padding: 30px 40px;
+	
+float: left;
+	
+box-sizing: border-box;
+max-width: 100%;
+}
+.box-4{
+	width: 50%;
+	
+float: left;
+	
+padding: 30px 40px;
+	
+/* display: flex; */
+	
+box-sizing: border-box;
+	
+padding-top: 102px;
+}
+.vidoe{
+
+background: blue;
+
+padding-bottom: 60px;
+}
+.vidoe h2{
+
+text-align: center;
+
+color: white;
+
+padding: 10px;
+}
+.vidoe img{
+	
+/* text-align: center; */
+	
+width: 600px;
+	
+margin-left: 450px;
+}
+.dentons{
+
+text-align: center;
+
+padding: 33px;
+}
+.dentons span{
+
+background: #306ede;
+
+padding: 10px;
+
+color: white;
+}
+.dentons p{
+
+padding: 24px;
+
+line-height: 29px;
+}
+.dentons img{
+	
+border-radius: 100px;
+	
+background: beige;
+}
+.sas{
+
+text-align: center;
+
+background: #000000c7;
+
+color: white;
+
+padding-bottom: 20px;
+}
+.sas h2{
+
+font-size: 30px;
+
+padding: 20px;
+}
+.sas span{
+	
+background: #388646;
+	
+padding: 9px;
+}
